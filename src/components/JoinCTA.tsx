@@ -71,7 +71,7 @@ export default function JoinCTA() {
       {/* Background effects */}
       <div className="absolute inset-0">
         <div className="absolute inset-0 bg-gradient-to-b from-navy-950 via-navy-900/50 to-navy-950" />
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[400px] bg-gold-500/8 blur-[120px] rounded-full" />
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[400px] bg-gold-500/10 blur-[120px] rounded-full" />
       </div>
 
       <div className="relative max-w-3xl mx-auto px-6">
